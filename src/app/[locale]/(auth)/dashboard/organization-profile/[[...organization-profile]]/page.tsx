@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { OrganizationProfile } from '@clerk/nextjs';
 import { useTranslations } from 'next-intl';
 

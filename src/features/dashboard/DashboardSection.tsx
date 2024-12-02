@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 export const DashboardSection = (props: {
   title: string;
   description: string;

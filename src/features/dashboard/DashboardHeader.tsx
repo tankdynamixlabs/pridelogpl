@@ -1,4 +1,5 @@
 'use client';
+export const runtime = 'edge';
 
 import { OrganizationSwitcher, UserButton } from '@clerk/nextjs';
 import Link from 'next/link';

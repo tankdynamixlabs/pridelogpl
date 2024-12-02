@@ -1,4 +1,5 @@
 'use client';
+export const runtime = 'edge';
 
 import { enUS, frFR } from '@clerk/localizations';
 import { ClerkProvider } from '@clerk/nextjs';

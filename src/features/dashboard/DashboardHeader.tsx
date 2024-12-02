@@ -1,5 +1,5 @@
 'use client';
-export const runtime = 'edge';
+export const runtime = 'experimental-edge';
 
 import { OrganizationSwitcher, UserButton } from '@clerk/nextjs';
 import Link from 'next/link';

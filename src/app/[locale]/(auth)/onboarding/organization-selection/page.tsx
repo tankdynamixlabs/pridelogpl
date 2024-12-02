@@ -1,4 +1,4 @@
-export const runtime = 'edge';
+export const runtime = 'experimental-edge';
 
 import { OrganizationList } from '@clerk/nextjs';
 import { getTranslations } from 'next-intl/server';

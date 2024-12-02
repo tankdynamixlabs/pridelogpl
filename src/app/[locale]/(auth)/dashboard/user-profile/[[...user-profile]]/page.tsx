@@ -1,4 +1,4 @@
-export const runtime = 'edge';
+export const runtime = 'experimental-edge';
 
 import { UserProfile } from '@clerk/nextjs';
 import { useTranslations } from 'next-intl';

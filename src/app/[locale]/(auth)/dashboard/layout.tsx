@@ -1,4 +1,4 @@
-export const runtime = 'edge';
+export const runtime = 'experimental-edge';
 
 import { useTranslations } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
